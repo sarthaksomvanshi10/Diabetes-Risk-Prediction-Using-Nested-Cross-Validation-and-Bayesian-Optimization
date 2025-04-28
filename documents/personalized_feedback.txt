@@ -1,0 +1,2 @@
+- Grade: 9.1/10
+- Feedback: Only the model loading was not possible, because the loaded file did not have the PCA in the pipeline.
